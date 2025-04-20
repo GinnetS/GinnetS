@@ -1,16 +1,33 @@
-## Hi there 👋
+<img src="https://github.com/GinnetS/GinnetS/blob/main/avatar.jpeg" width="250" alt="avatar" />
 
-<!--
-**GinnetS/GinnetS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Ginnet
 
-Here are some ideas to get you started:
+🚀 Backend developer focused on writing clean, efficient, and maintainable code.  
+💻 Experience with Node.js, TypeScript, Express, and PostgreSQL.  
+🔐 Interested in designing secure APIs, JWT authentication, and stored procedures.  
+📚 Constantly learning and working to improve my backend development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Tech Stack
+
+- **Languages:** TypeScript, JavaScript, SQL  
+- **Backend:** Node.js, Express  
+- **Database:** PostgreSQL, TypeORM  
+- **Tools:** Git, Postman, Docker (learning!)  
+
+### 📈 What I'm up to
+
+- 🔧 Improving backend architecture for scalable applications  
+- ✨ Automating workflows and optimizing DB procedures  
+- 🔎 Exploring testing strategies and best practices for backend services
+
+### 💬 Let's connect!
+
+- 📧 Email: ginnetr9@gmail.com  
+- 💼 LinkedIn: [Tu LinkedIn Aquí]  
+
+
+---
+
+
+
+
