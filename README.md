@@ -1,4 +1,5 @@
-<img src="[https://github.com/GinnetS/GinnetS/blob/main/avatar.jpeg](https://github.com/GinnetS/GinnetS/blob/main/WhatsApp%20Image%202025-04-20%20at%2000.45.57.jpeg?raw=true)" width="250" alt="avatar" />
+<img src="https://github.com/GinnetS/GinnetS/blob/main/WhatsApp%20Image%202025-04-20%20at%2000.45.57.jpeg?raw=true" width="250"/>
+
 
 ## Hi there 👋, I'm Ginnet
 
