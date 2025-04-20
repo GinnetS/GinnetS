@@ -1,5 +1,6 @@
-<img src="https://github.com/GinnetS/GinnetS/blob/main/WhatsApp%20Image%202025-04-20%20at%2000.45.57.jpeg?raw=true" width="250"/>
-
+<p align="center">
+  <img src="https://github.com/GinnetS/GinnetS/blob/main/WhatsApp%20Image%202025-04-20%20at%2000.45.57.jpeg?raw=true" width="350"/>
+</p>
 
 ## Hi there 👋, I'm Ginnet
 
@@ -24,10 +25,7 @@
 ### 💬 Let's connect!
 
 - 📧 Email: ginnetr9@gmail.com  
-- 💼 LinkedIn: [Tu LinkedIn Aquí]  
-
-
----
+- 💼 LinkedIn: [Ginnet Stephanie Rodríguez Rojas](https://www.linkedin.com/in/ginnet-stephanie-rodriguez-rojas-a89457255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
