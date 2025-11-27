@@ -1,12 +1,12 @@
 <h1 align="center">console.log("Hello World 👩‍💻 – I'm Ginnet")</h1>
 
 <p align="center">
-  <img src="https://github.com/GinnetS.png" width="350"/>
+  <img src="https://github.com/GinnetS/GinnetS/blob/main/WhatsApp%20Image%202025-11-27%20at%207.56.12%20AM.jpeg?raw=true" width="350"/>
 </p>
 
 <p align="center">
   🚀 Backend developer focused on writing clean, efficient, and maintainable code.  
-  💻 Experience with Node.js, TypeScript, Express, and PostgreSQL.  
+  💻 Experience with Node.js, TypeScript, Express, NestJS and PostgreSQL.  
   🔐 Interested in designing secure APIs, JWT authentication, and stored procedures.  
   📚 Constantly learning and working to improve my backend development skills.
 </p>
