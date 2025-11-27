@@ -1,8 +1,7 @@
-
 <h1 align="center">console.log("Hello World 👩‍💻 – I'm Ginnet")</h1>
 
 <p align="center">
-  <img src="https://github.com/GinnetS/GinnetS/blob/main/WhatsApp%20Image%202025-04-20%20at%2000.45.57.jpeg?raw=true" width="350"/>
+  <img src="https://github.com/GinnetS.png" width="350"/>
 </p>
 
 <p align="center">
@@ -19,6 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeORM-FF2D20?style=for-the-badge&logo=typeorm&logoColor=white"/>
